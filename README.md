@@ -1,2 +1,1 @@
-# crumpled-ball
-This is a simple paper throwing game
+# CP-2
